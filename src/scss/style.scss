@@ -56,7 +56,19 @@ $primary-overlay:rgba(50,146,166,0.8);
     }
   }
 }
-
+.bonus-card{
+  width: 100%;
+}
+.w100{
+  width: 100%;
+}
+.rating-pic{
+  width: 15%;
+  background-image: url('/img/icons/bet365-logo.png');
+  background-size: 90%;
+  background-position: 10px;
+  background-repeat: no-repeat;
+}
 #main-footer{
   .nav-pills{
     padding-bottom: 20px;
@@ -71,3 +83,11 @@ $primary-overlay:rgba(50,146,166,0.8);
   }
 }
 
+@media (min-width:768px)  { 
+  .bonus-card{
+    width: 300px;
+  }
+  .md-show{
+    display: block;
+  }
+}
