@@ -65,6 +65,16 @@
 #main-footer .lead {
   font-size: 1rem; }
 
+.info-box {
+  background: #d3d3d3;
+  padding: 10px 10px 10px 20px; }
+
+.fa-info {
+  padding: 20px 20px 0 0;
+  font-size: 50px;
+  float: left;
+  height: 90px; }
+
 @media (min-width: 768px) {
   .bonus-card {
     width: 300px; }
