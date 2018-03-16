@@ -98,12 +98,99 @@ $primary-overlay:rgba(50,146,166,0.8);
 .h6{
   font-weight: bold;
 }
+.bet-description-card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+  justify-content: space-around;
+  align-items: stretch;
+}
 
+.bet-description-card-item {
+  position: relative;
+  text-align: center;
+  border: 2px solid #d8d8d8;
+  border-radius: 6px;
+  width: 100%;
+  min-height: 100px;
+  padding: 20px 0;
+  font-size: 15px;
+  line-height: 1.375;
+  color: #222;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.bet-description-card-item-top {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: -15px;
+  width: 50px;
+  height: 30px;
+  background-color: #fff;
+}
+.bet-description-like {
+  display: inline-block;
+  width: 22px;
+  height: 20px;
+  background-image: url(//s5o.ru/source/_desktop/sections/bets/views/characteristics/images/like-dislike.png);
+}
+.rating-card{
+  padding: 20px;
+}
+.rating-card-content-wrapper{
+  padding: 10px 0;
+}
+.rating-card-item {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-content: stretch;
+  align-items: flex-start;
+  width: 100%;
+}
+.progress{
+  height: 5px;
+}
+.lang-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+.lang-item{
+  background-color: #eeeeee;
+  width: 50%;
+}
+.lang-item img{
+  padding: 5px;
+}
+.book-icon{
+  color: #7c6ed2;
+}
+.fa-check{
+  color: #7fbf4b;
+}
+.fa-times{
+  color: #c4c4c4;
+}
 @media (min-width:768px)  { 
   .bonus-card{
     width: 300px;
   }
   .md-show{
     display: block;
+  }
+  .bet-description-card {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .bet-description-card-item {
+    width: 45%;
+  }
+  .lang-item{
+    width: 25%;
   }
 }

@@ -119,12 +119,12 @@
             </h2>
             <div class="card-body">
                 <div class="card-text">
-                  <p>Тимот на ... е составен од многу професионалци со богато искуство во онлајн обложувањето на спортски настани.</p>
+                  <p>Тимот на <b>bookmakers.mk</b> е составен од многу професионалци со богато искуство во онлајн обложувањето на спортски настани.</p>
 
                   <p>Со нашето познавање ние ќе се обидеме да ве упатиме кон најдобрите обложувалници кои ќе ви ги понудат најдобрите коефициенти, бонуси и промоции, за да станете еден профитабилен играч. Покрај тоа, ние ќе ви 
                   помогнеме да ги одберете вистинските спортски настани за да се обложите, со што сите ќе сте задоволни.</p>
 
-                  <p>Во ... сакаме да изградиме силна врска помеѓу ентузијастите за спортско обложување и нас, вашите советници.</p>
+                  <p>Cакаме да изградиме силна врска помеѓу ентузијастите за спортско обложување и нас, вашите советници.</p>
 
                   <p>Стоиме зад секоја обложувалница и настан што го препорачуваме, бидејќи се држиме до нашиот бренд и сакаме да бидеме забележани.</p>
                 </div>
@@ -182,9 +182,9 @@
               <div class="col-md-12 mb-4">
                 <div class="card">
                   <div class="card-body">
-                      <h4 class="card-title">Система мартингейл</h4>
-                      <h6 class="card-subtitle">Финансова стратегия</h6>
-                      <p class="card-text">Подробна система за залагане по система мартингейл.</p>
+                      <h4 class="card-title">Залагане на футбол мачове</h4>
+                      <h6 class="card-subtitle">Стратегија</h6>
+                      <p class="card-text">Подробна система за залагане на футбол мачове.</p>
                        <a href="#" class="btn btn-outline-primary">Прочитаj Повеќе</a>
                   </div>
                 </div>
@@ -192,9 +192,9 @@
               <div class="col-md-12">
                 <div class="card">
                   <div class="card-body">
-                      <h4 class="card-title">Как да печелим</h4>
-                      <h6 class="card-subtitle">Тенис</h6>
-                      <p class="card-text">Подробна система за залагане по система мартингейл.</p>
+                      <h4 class="card-title">Обложување во живо</h4>
+                      <h6 class="card-subtitle">Стратегија</h6>
+                      <p class="card-text">Система за обложување во живо, додека го следите наптреварот.</p>
                        <a href="#" class="btn btn-outline-primary">Повеќе</a>
                   </div>
                 </div>
@@ -204,8 +204,8 @@
           <div class="col-md-4">
             <div class="card">
               <div class="card-body">
-                  <h4 class="card-title">Какво значи мултибет?</h4>
-                  <p class="card-text">Чети подробно ръководство за букмейкъри.</p>
+                  <h4 class="card-title">Какво значи кешаут?</h4>
+                  <p class="card-text">Чети подробно ръководство за Cash out.</p>
                    <a href="#" class="btn btn-success btn-block">Уште</a>
               </div>
             </div>
@@ -214,42 +214,14 @@
     </div>
   </section>
 
-  <footer id="main-footer" class="py-2 bg-primary text-white">
-    <div class="container">
-      <div class="row text-center">
-        <div class="col-md-6 mb-2">
-          <ul class="nav flex-column nav-pills">
-              <li class="nav-item">
-                  <a class="lead" href="/rating/">Македонски обложувалници</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="/bonus/">Бонуси</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="/betting-glossary/">Водич за почетници</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="/betting-strategy/">Стратегии</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Контакти</a>
-              </li>
-          </ul>
-        </div>
-        <div class="col-md-6 mt-auto">
-          <a href="index.html">
-            <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
-          </a>
-          <p class="lead">Обложувањето е забрането за лица под 18 години.</p>
-          <p class="lead">Copyright &copy; 2018</p>
-        </div>
-      </div>
-    </div>
-  </footer>
-
+  <?php require '/include/footer.php';?>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
+
+

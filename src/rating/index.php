@@ -10,38 +10,8 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-  <nav class="navbar navbar-expand-md navbar-light py-2">
-    <div class="container">
-      <a href="/index.html" class="navbar-brand">
-        <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
-      </a>
-      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item dropdown">
-                    <a href="/rating.html" class="nav-link dropdown-toggle" data-toggle="dropdown">Букмейкъри</a>
-                    <div class="dropdown-menu">
-                      <a href="#" class="dropdown-item">bet365</a>
-                      <a href="#" class="dropdown-item">betfair</a>
-                      <a href="#" class="dropdown-item">godaddy</a>
-                      <a href="#" class="dropdown-item">frebet</a>
-                      <a href="#" class="dropdown-item">sportingbet</a>
-                      <a href="#" class="dropdown-item">oprabet</a>
-                    </div>
-          </li>
-          <li class="nav-item">
-            <a href="#about" class="nav-link">Бонуси</a>
-          </li>
-          <li class="nav-item">
-            <a href="#authors" class="nav-link">Ръководство</a>
-          </li>
-          <li class="nav-item">
-            <a href="#contact" class="nav-link">Стратегии</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+
+  <?php require '../include/header.php';?>
 
   <!-- INVERSE TABLE -->
   <main>
@@ -347,39 +317,8 @@
   </section>
         
   </main>
-  <footer id="main-footer" class="py-2 bg-primary text-white">
-    <div class="container">
-      <div class="row text-center">
-        <div class="col-md-6 mb-2">
-          <ul class="nav flex-column nav-pills">
-              <li class="nav-item">
-                  <a class="lead" href="/rating/">Македонски букмейкъри</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Бонуси</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Термини</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Стратегии</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Контакти</a>
-              </li>
-          </ul>
-        </div>
-        <div class="col-md-6 mt-auto">
-          <a href="index.html">
-            <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
-          </a>
-          <p class="lead">Хазартът е забранен за непълнолетни лица под 18 години.</p>
-          <p class="lead">Copyright &copy; 2017</p>
-        </div>
-      </div>
-    </div>
-  </footer>
-
+  
+  <?php require '../include/footer.php';?>
 
   <script src="/js/jquery.min.js"></script>
   <script src="/js/popper.min.js"></script>

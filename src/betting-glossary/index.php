@@ -4,44 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Водич за почетници</title>
+  <title>Водич за почетници - Значење и Видови на облози</title>
   <link rel="stylesheet" href="/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/bootstrap.css">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-  <nav class="navbar navbar-expand-md navbar-light py-2">
-    <div class="container">
-      <a href="/index.html" class="navbar-brand">
-        <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
-      </a>
-      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item dropdown">
-                    <a href="/rating.html" class="nav-link dropdown-toggle" data-toggle="dropdown">Букмейкъри</a>
-                    <div class="dropdown-menu">
-                      <a href="#" class="dropdown-item">bet365</a>
-                      <a href="#" class="dropdown-item">betfair</a>
-                      <a href="#" class="dropdown-item">godaddy</a>
-                      <a href="#" class="dropdown-item">frebet</a>
-                      <a href="#" class="dropdown-item">sportingbet</a>
-                      <a href="#" class="dropdown-item">oprabet</a>
-                    </div>
-          </li>
-          <li class="nav-item">
-            <a href="#about" class="nav-link">Бонуси</a>
-          </li>
-          <li class="nav-item">
-            <a href="#authors" class="nav-link">Ръководство</a>
-          </li>
-          <li class="nav-item">
-            <a href="#contact" class="nav-link">Стратегии</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+
+  <?php require '../include/header.php';?>
 
   <main>
     <section class="container my-5">
@@ -80,7 +50,7 @@
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse2" data-parent="#accordion" data-toggle="collapse">
-                        1X 12 2X
+                        1X 12 2X - Дупла шанса
                       </a></h5>
                     </div>
 
@@ -98,39 +68,47 @@
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse3" data-parent="#accordion" data-toggle="collapse">
-                        Collapse Three
+                        Вкупно голови
                       </a></h5>
                     </div>
 
                     <div id="collapse3" class="collapse">
                       <div class="card-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+                        <ul class="list-unstyled">
+                          <li>2+ - На натпреварот ќе има постигнато 2 или повеќе голови.</li>
+                          <li>3+ - На натпреварот ќе има постигнато 2 или повеќе голови.</li>
+                          <li>4+ - На натпреварот ќе има постигнато 2 или повеќе голови.</li>
+                        </ul>
                       </div>
                     </div>
                   </div>
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse4" data-parent="#accordion" data-toggle="collapse">
-                        Collapse 4
+                        Вкупно Голови - Опсег 
                       </a></h5>
                     </div>
 
                     <div id="collapse4" class="collapse">
                       <div class="card-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+                        <ul class="list-unstyled">
+                          <li>0-1 гол -  на натпреварот ќе се постигнат од 0 до 1 гола.</li>
+                          <li>0-2 гола -  на натпреварот ќе се постигнат од 0 до 2 гола.</li>
+                          <li>0-3 гола -  на натпреварот ќе се постигнат од 0 до 3 гола.</li>
+                        </ul>
                       </div>
                     </div>
                   </div>
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse5" data-parent="#accordion" data-toggle="collapse">
-                        Collapse 5
+                        Хендикеп +/-
                       </a></h5>
                     </div>
 
                     <div id="collapse5" class="collapse">
                       <div class="card-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+                        Домаќинот / Гостинот ќе победи со поголема разлика од зададена хендикеп граница.
                       </div>
                     </div>
                   </div>
@@ -228,46 +206,12 @@
         <ul class="list-group mb-5">
             <a class="list-group-item list-group-item-action" href="#">Сингл</a>
             <a class="list-group-item list-group-item-action" href="#">Комбиниран облог</a>
-            <a class="list-group-item list-group-item-action" href="#">My List Item Three</a>
-            <a class="list-group-item list-group-item-action" href="#">My List Item Four</a>
-            <a class="list-group-item list-group-item-action" href="#">My List Item Five</a>
+            <a class="list-group-item list-group-item-action" href="#">Система</a>
         </ul>
     </section>
   </main>
 
-  <footer id="main-footer" class="py-2 bg-primary text-white">
-    <div class="container">
-      <div class="row text-center">
-        <div class="col-md-6 mb-2">
-          <ul class="nav flex-column nav-pills">
-              <li class="nav-item">
-                  <a class="lead" href="/rating/">Македонски букмейкъри</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Бонуси</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Термини</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Стратегии</a>
-              </li>
-              <li class="nav-item">
-                  <a class="lead" href="#">Контакти</a>
-              </li>
-          </ul>
-        </div>
-        <div class="col-md-6 mt-auto">
-          <a href="index.html">
-            <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
-          </a>
-          <p class="lead">Хазартът е забранен за непълнолетни лица под 18 години.</p>
-          <p class="lead">Copyright &copy; 2017</p>
-        </div>
-      </div>
-    </div>
-  </footer>
-
+  <?php require '../include/footer.php';?>
 
   <script src="/js/jquery.min.js"></script>
   <script src="/js/popper.min.js"></script>

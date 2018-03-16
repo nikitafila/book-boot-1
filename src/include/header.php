@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-md navbar-light py-2">
     <div class="container">
-      <a class="navbar-brand">
+      <a href="/" class="navbar-brand">
         <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
       </a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
