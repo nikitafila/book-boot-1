@@ -175,6 +175,82 @@ $primary-overlay:rgba(50,146,166,0.8);
 .fa-times{
   color: #c4c4c4;
 }
+.book {
+  display: flex;
+  flex-direction: column;
+  background-color: #007b5e;
+  width: 250px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 5px;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+.row-book {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+.book-number {
+  width: 30%;
+}
+.small-bonus-text {
+  font-size: 14px;
+}
+.row-book-last {
+  background-color: #393d40;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0 0 5px 5px;
+}
+.botton-book {
+  width: 80%;
+  background-color: #fbdc47;
+  color: #007b5e;
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 5px;
+  text-align: center;
+}
+.botton-book:first-child {
+  background-color: #007b5e;
+  color: #fff;
+}
+.vidlet-aria {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 5px;
+}
+.title-vidlet {
+  background-color: #b3b3b3;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  text-transform: uppercase;
+  border-radius: 5px 5px 0 0;
+}
+.vidlet-main {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.fa-check-circle{
+  margin-right: 10px;
+}
+.pic-table img{
+  width: 50px;
+}
+.sdfsdfa{
+  background-color: red;
+}
 @media (min-width:768px)  { 
   .bonus-card{
     width: 300px;
