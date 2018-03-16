@@ -20,11 +20,12 @@ gulp.task('js', function(){
 // Watch Sass & Server
 gulp.task('serve', ['sass'], function(){
   browserSync.init({
-    server: "./src"
+    proxy: "book-boot-1"
   });
 
   gulp.watch(['node_modules/bootstrap/scss/bootstrap.scss', 'src/scss/*.scss'], ['sass']);
   gulp.watch("src/*.html").on('change', browserSync.reload);
+  gulp.watch("src/*.php").on('change', browserSync.reload);
 });
 
 // Move Fonts Folder to src/fonts
