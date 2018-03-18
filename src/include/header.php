@@ -1,11 +1,11 @@
-<nav class="navbar navbar-expand-md navbar-light py-2">
-    <div class="container">
+<header>
+  <nav class="navbar navbar-expand-md navbar-light py-2">
       <a href="/" class="navbar-brand">
         <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
       </a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
       <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
+        <ul class="navbar-nav ml-auto text-center">
           <li class="nav-item dropdown">
                     <a href="/rating/" class="nav-link dropdown-toggle" data-toggle="dropdown">Обложувалници</a>
                     <div class="dropdown-menu">
@@ -28,5 +28,5 @@
           </li>
         </ul>
       </div>
-    </div>
- </nav>
+  </nav>
+ </header>

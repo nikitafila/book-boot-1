@@ -2,8 +2,7 @@
   box-shadow: 2px 2px 5px #3292a6;
   background: #fff; }
   .navbar .nav-item {
-    font-size: 1.4rem;
-    padding-right: 20px; }
+    font-size: 1.4rem; }
 
 #showcase {
   position: relative;
@@ -161,7 +160,7 @@
   display: flex;
   flex-direction: column;
   background-color: #007b5e;
-  width: 250px;
+  width: 100%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   border-radius: 5px;
   color: #fff;
@@ -173,7 +172,7 @@
 .row-book {
   display: flex;
   align-items: center;
-  padding: 15px; }
+  padding: 10px; }
 
 .book-number {
   width: 30%; }
@@ -204,7 +203,7 @@
   color: #fff; }
 
 .vidlet-aria {
-  width: 250px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
