@@ -61,13 +61,7 @@ $primary-overlay:rgba(50,146,166,0.8);
 .w100{
   width: 100%;
 }
-.rating-pic{
-  width: 15%;
-  background-image: url('/img/icons/bet365-logo.png');
-  background-size: 90%;
-  background-position: 10px;
-  background-repeat: no-repeat;
-}
+
 #main-footer{
   .nav-pills{
     padding-bottom: 20px;
@@ -112,7 +106,7 @@ $primary-overlay:rgba(50,146,166,0.8);
   border-radius: 6px;
   width: 100%;
   min-height: 100px;
-  padding: 20px 0;
+  padding: 40px 0;
   font-size: 15px;
   line-height: 1.375;
   color: #222;
@@ -137,7 +131,12 @@ $primary-overlay:rgba(50,146,166,0.8);
 }
 .rating-card{
   padding: 20px;
+  width: 95%;
 }
+.main-rating-block{
+  justify-content: space-around;
+}
+
 .rating-card-content-wrapper{
   padding: 10px 0;
 }
@@ -164,6 +163,10 @@ $primary-overlay:rgba(50,146,166,0.8);
 }
 .lang-item img{
   padding: 5px;
+}
+.exchange {
+  padding: 20px;
+  font-weight: 500;
 }
 .book-icon{
   color: #7c6ed2;
@@ -244,11 +247,11 @@ $primary-overlay:rgba(50,146,166,0.8);
 .fa-check-circle{
   margin-right: 10px;
 }
-.pic-table img{
-  width: 50px;
-}
 .sdfsdfa{
   background-color: red;
+}
+.table-hover li{
+  list-style: none;
 }
 @media (min-width:768px)  { 
   .bonus-card{
@@ -267,5 +270,8 @@ $primary-overlay:rgba(50,146,166,0.8);
   }
   .lang-item{
     width: 25%;
+  }
+  .rating-card{
+    width: 45%;
   }
 }

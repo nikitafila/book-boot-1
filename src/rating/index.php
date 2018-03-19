@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="mk-MK">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,76 +18,79 @@
     <section class="container my-5">
           <h1 class="h3 text-center mb-3">Споредба на македонски обложувалници</h1>
           <table class="table table-hover">
-              <thead>
+              <thead class="text-center">
                   <tr>
                       <th>Место</th>
                       <th>Обложувалница</th>
-                      <th class="d-none d-sm-table-cell">Број на подружници</th>
-                      <th class="d-none d-sm-table-cell">Градови</th>
-                      <th>Промоции</th>
+                      <th class="d-none d-lg-table-cell">Број на подружници</th>
+                      <th class="d-none d-lg-table-cell">Градови</th>
+                      <th class="d-none d-md-table-cell">Промоции</th>
                   </tr>
               </thead>
               <tbody>
                   <tr>
-                      <th>1</th>
-                      <td>Спортлайф</td>
-                      <td class="d-none d-sm-table-cell">178</td>
-                      <td class="d-none d-sm-table-cell">
+                      <th class="align-middle">1</th>
+                      <td class="align-middle">
+                        <img src="/img/icons/bookmakers/sportlife-logo.png">
+                      </td>
+                      <td class="d-none d-lg-table-cell align-middle text-center">152</td>
+                      <td class="d-none d-lg-table-cell">
                         <ul>
-                          <li>Скопие</li>
-                          <li>Битола</li>
+                          <li>Скопје</li>
+                          <li>Тетово</li>
                           <li>Охрид</li>
-                          <li>Скопие</li>
-                          <li>Скопие</li>
+                          <li>Струмица</li>
+                          <li>Куманово</li>
                         </ul>
                       </td>
-                      <td>
+                      <td class="d-none d-md-table-cell">
                         <ul>
-                          <li>Карта за постояни клиенти</li>
-                          <li>Кешбек за загуби</li>
-                          <li>Постоянни награди</li>
+                          <li>Sl Маркет</li>
+                          <li>Екстра добивка до 416%</li>
+                          <li>Андроид апликациjа</li>
                         </ul>
                       </td>
                   </tr>
                   <tr>
-                      <th>2</th>
-                      <td>Златна копачка</td>
-                      <td class="d-none d-sm-table-cell">120</td>
-                      <td class="d-none d-sm-table-cell">
+                      <th class="align-middle">2</th>
+                      <td class="align-middle">
+                        <img src="/img/icons/bookmakers/zlatna-kopacka.png">
+                      </td>
+                      <td class="d-none d-lg-table-cell align-middle text-center">90</td>
+                      <td class="d-none d-lg-table-cell">
                         <ul>
-                          <li>Скопие</li>
+                          <li>Скопје</li>
                           <li>Битола</li>
                           <li>Охрид</li>
-                          <li>Скопие</li>
-                          <li>Скопие</li>
+                          <li>Струмица</li>
                         </ul>
                       </td>
-                      <td>
+                      <td class="d-none d-md-table-cell">
                         <ul>
-                          <li>Карта за постояни клиенти</li>
-                          <li>Кешбек за загуби</li>
-                          <li>Постоянни награди</li>
+                          <li>Улов за ваучер</li>
                         </ul>
                       </td>
                   </tr>
                   <tr>
-                      <th>3</th>
-                      <td>Евротип</td>
-                      <td class="d-none d-sm-table-cell">62</td>
-                      <td class="d-none d-sm-table-cell">
+                      <th class="align-middle">3</th>
+                      <td class="align-middle">
+                        <img src="/img/icons/bookmakers/mozzart.png">
+                      </td>
+                      <td class="d-none d-lg-table-cell align-middle text-center">62</td>
+                      <td class="d-none d-lg-table-cell">
                         <ul>
-                          <li>Скопие</li>
+                          <li>Скопје</li>
                           <li>Битола</li>
-                          <li>Охрид</li>
-                          <li>Скопие</li>
-                          <li>Скопие</li>
+                          <li>Виница</li>
+                          <li>Делчево</li>
+                          <li>Прилеп</li>
                         </ul>
                       </td>
-                      <td>
+                      <td class="d-none d-md-table-cell">
                         <ul>
-                          <li>Карта за постояни клиенти</li>
-                          <li>Кешбек за загуби</li>
-                          <li>Постоянни награди</li>
+                          <li>Брз тикет</li>
+                          <li>Троен суперпар</li>
+                          <li>10.000.000 mkd - максимална исплата</li>
                         </ul>
                       </td>
                   </tr>
@@ -96,14 +99,13 @@
     </section>
     <section class="container my-5">
           <h2 class="h3 text-center mb-3">Споредба на европски обложувалници</h1>
-          <table class="table table-inverse">
+          <table class="table table-hover">
               <thead>
                   <tr>
                       <th>Место</th>
                       <th>Обложувалница</th>
-                      <th class="d-none d-sm-table-cell">Основни карактеристики</th>
-                      <th class="d-none d-sm-table-cell">Методи на плаќање</th>
-                      <th class="d-none d-md-table-cell">Јазик на сајтот</th>
+                      <th class="d-none d-lg-table-cell">Основни карактеристики</th>
+                      <th class="d-none d-lg-table-cell">Методи на плаќање</th>
                       <th class="d-none d-lg-table-cell">Апликации</th>
                       <th class="d-none d-md-table-cell">Бонус</th>
                       <th>Рецензија</th>
@@ -112,9 +114,10 @@
               <tbody>
                   <tr>
                       <th class="align-middle">1</th>
-                      <td class="rating-pic">
+                      <td class="align-middle">
+                        <img src="/img/icons/bookmakers/bet365.png">
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>Највисоки коефициенти</li>
                           <li>Брз сајт</li>
@@ -122,18 +125,13 @@
                           <li>Пренос во живо</li>
                         </ul>
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
-                          <li>Виза</li>
-                          <li>Мастер</li>
-                          <li>Скрил</li>
-                          <li>Нетелер</li>
+                          <li>Visa</li>
+                          <li>Mastercard</li>
+                          <li>Skrill</li>
+                          <li>Neteller</li>
                           <li>Банкарски трансвер</li>
-                        </ul>
-                      </td>
-                      <td class="d-none d-md-table-cell">
-                        <ul>
-                          <li>Англиски</li>
                         </ul>
                       </td>
                       <td class="d-none d-lg-table-cell">
@@ -146,15 +144,16 @@
                       <td class="d-none d-md-table-cell">
                         Бонус 100 евро
                       </td>
-                      <td>
-                        Ревю
+                      <td class="align-middle">
+                        <a href="/rating/bet365-macedonia/" class="btn btn-primary">Рецензија</a>
                       </td>
                   </tr>
                   <tr>
                       <th class="align-middle">2</th>
-                      <td class="rating-pic">
+                      <td class="align-middle">
+                        <img src="/img/icons/bookmakers/10bet.png">
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>Лиенз във Англия</li>
                           <li>Най-високи коефиенти</li>
@@ -163,7 +162,7 @@
                           <li>Лайвстрийм</li>
                         </ul>
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>Виза</li>
                           <li>Мастер</li>
@@ -172,11 +171,7 @@
                           <li>Банков трансфер</li>
                         </ul>
                       </td>
-                      <td class="d-none d-md-table-cell">
-                        <ul>
-                          <li>Македонски</li>
-                        </ul>
-                      </td>
+                      
                       <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>IOS</li>
@@ -187,15 +182,18 @@
                       <td class="d-none d-md-table-cell">
                         Бонус 100 евро
                       </td>
-                      <td>
-                        Ревю
+                      <td class="align-middle">
+                        <a href="#" class="btn btn-secondary">
+                          Рецензија
+                        </a>
                       </td>
                   </tr>
                   <tr>
                       <th class="align-middle">3</th>
-                      <td class="rating-pic">
+                      <td class="align-middle">
+                        <img src="/img/icons/bookmakers/betway.png">
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>Лиенз във Англия</li>
                           <li>Най-високи коефиенти</li>
@@ -204,7 +202,7 @@
                           <li>Лайвстрийм</li>
                         </ul>
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>Виза</li>
                           <li>Мастер</li>
@@ -213,11 +211,7 @@
                           <li>Банков трансфер</li>
                         </ul>
                       </td>
-                      <td class="d-none d-md-table-cell">
-                        <ul>
-                          <li>Србски</li>
-                        </ul>
-                      </td>
+                      
                       <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>IOS</li>
@@ -228,15 +222,18 @@
                       <td class="d-none d-md-table-cell">
                         Бонус 100 евро
                       </td>
-                      <td>
-                        Рецензија
+                      <td class="align-middle">
+                        <a href="#" class="btn btn-secondary">
+                          Рецензија
+                        </a>
                       </td>
                   </tr>
                   <tr>
                       <th class="align-middle">4</th>
-                      <td class="rating-pic">
+                      <td class="align-middle">
+                        <img src="/img/icons/bookmakers/willian-hill.png">
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>Лиенз във Англия</li>
                           <li>Най-високи коефиенти</li>
@@ -245,7 +242,7 @@
                           <li>Лайвстрийм</li>
                         </ul>
                       </td>
-                      <td class="d-none d-sm-table-cell">
+                      <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>Виза</li>
                           <li>Мастер</li>
@@ -254,11 +251,7 @@
                           <li>Банков трансфер</li>
                         </ul>
                       </td>
-                      <td class="d-none d-md-table-cell">
-                        <ul>
-                          <li>Английски</li>
-                        </ul>
-                      </td>
+                      
                       <td class="d-none d-lg-table-cell">
                         <ul>
                           <li>IOS</li>
@@ -269,8 +262,10 @@
                       <td class="d-none d-md-table-cell">
                         Бонус 100 евро
                       </td>
-                      <td>
-                        Ревю
+                      <td class="align-middle">
+                        <a href="#" class="btn btn-secondary">
+                          Рецензија
+                        </a>
                       </td>
                   </tr>
               </tbody>

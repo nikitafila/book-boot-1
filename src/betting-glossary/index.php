@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="mk-MK">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -115,13 +115,13 @@
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse6" data-parent="#accordion" data-toggle="collapse">
-                        Collapse 6
+                        Двојно дејствие
                       </a></h5>
                     </div>
 
                     <div id="collapse6" class="collapse">
                       <div class="card-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+                        Облог "ако". Тој се применува доколку предходниот е добиен, нерешен или откажан.
                       </div>
                     </div>
                   </div>
@@ -133,13 +133,13 @@
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse7" data-parent="#accordion" data-toggle="collapse">
-                        Collapse 7
+                        Коефициенти ЗА
                       </a></h5>
                     </div>
 
                     <div id="collapse7" class="collapse md-show">
                       <div class="card-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+                        Цената кога коефициентот е помал од 2.
                       </div>
                     </div>
                   </div>
@@ -147,13 +147,13 @@
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse8" data-parent="#accordion" data-toggle="collapse">
-                        Collapse 8
+                        Коефициенти Спрема
                       </a></h5>
                     </div>
 
                     <div id="collapse8" class="collapse">
                       <div class="card-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+                        Цената кога коефициентот е поголем од 2.
                       </div>
                     </div>
                   </div>
@@ -161,13 +161,13 @@
                   <div class="card">
                     <div class="card-header" role="tab" id="heading">
                       <h5 class="mb-0"><a href="#collapse9" data-parent="#accordion" data-toggle="collapse">
-                        Collapse 9
+                        Парлеј
                       </a></h5>
                     </div>
 
                     <div id="collapse9" class="collapse">
                       <div class="card-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+                        Американски термин за <a href="#comby">комбиниран облог</a>.
                       </div>
                     </div>
                   </div>
@@ -194,20 +194,36 @@
 
     <section class="container my-5">
         <!-- CARD GROUP -->
-        <div class="card-group mb-4">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Видови на облози</h4>
-                    <p class="card-text">Најраспространети видови на облози</p>
-                </div>
+        
+         <h4 class="card-title text-center mb-4">Видови на облози</h4>
+
+         <div class="card mb-4">
+            <h4 class="card-header h5">
+                Сингл облог
+            </h4>
+            <div class="card-body">
+                <p class="card-text">Cерија од облози на различни настани.Сите настани мора да бидат погодени за да добиете.</p>
             </div>
         </div>
-        <!-- LIST GROUP WITH LINKS -->
-        <ul class="list-group mb-5">
-            <a class="list-group-item list-group-item-action" href="#">Сингл</a>
-            <a class="list-group-item list-group-item-action" href="#">Комбиниран облог</a>
-            <a class="list-group-item list-group-item-action" href="#">Система</a>
-        </ul>
+
+        <div class="card mb-4">
+            <h4 class="card-header h5" id='comby'>
+                Комбиниран облог
+            </h4>
+            <div class="card-body">
+                <p class="card-text">Cерија од облози на различни настани.Сите настани мора да бидат погодени за да добиете.</p>
+            </div>
+        </div>
+
+        <div class="card mb-4">
+            <h4 class="card-header h5">
+                Двойни
+            </h4>
+            <div class="card-body">
+                <p class="card-text">Комбинација од две селекции. За да добиете потребно е да бидат погодени и двете.</p>
+            </div>
+        </div>
+
     </section>
   </main>
 

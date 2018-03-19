@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="mk-MK">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -51,9 +51,9 @@
               <h6 class="text-warning"><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i></h6>
               <ul class="book-list">
                 <li>Бонус 100 евро</li>
-                <li>Плащане с карти</li>
-                <li>Кешаут</li>
-                <li>Онлайн съпорт</li>
+                <li>Казино продукт</li>
+                <li>Слотови</li>
+                <li>Онлајн спорт</li>
               </ul>
               <a href="#" class="btn btn-primary">Земи бонус</a>
             </div>
@@ -67,9 +67,9 @@
               <h6 class="text-warning"></i><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i></h6>
               <ul class="book-list">
                 <li>Бонус 100 евро</li>
-                <li>Плащане с карти</li>
-                <li>Кешаут</li>
-                <li>Онлайн съпорт</li>
+                <li>Над 1000 натпревари</li>
+                <li>Високи коефициенти</li>
+                <li>Брза верификација</li>
               </ul>
               <a href="#" class="btn btn-primary">Земи бонус</a>
             </div>
@@ -83,9 +83,9 @@
               <h6 class="text-warning"><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i><i class="fa fa-star fa-xs"></i></h6>
               <ul class="book-list">
                 <li>Бонус 100 евро</li>
-                <li>Плащане с карти</li>
-                <li>Кешаут</li>
-                <li>Онлайн съпорт</li>
+                <li>Мобилно обложување</li>
+                <li>Берза на облози</li>
+                <li>Верификација на акаунт: 24 часа</li>
               </ul>
               <a href="#" class="btn btn-primary">Земи бонус</a>
             </div>
@@ -184,8 +184,8 @@
                   <div class="card-body">
                       <h4 class="card-title">Залагане на футбол мачове</h4>
                       <h6 class="card-subtitle">Стратегија</h6>
-                      <p class="card-text">Подробна система за залагане на футбол мачове.</p>
-                       <a href="#" class="btn btn-outline-primary">Прочитаj Повеќе</a>
+                      <p class="card-text">Детален систем за обложување на фудбалски натпревари.</p>
+                       <a href="/betting-strategy/kako-da-zarabotite-od-oblazuvanje/" class="btn btn-outline-primary">Прочитаj Повеќе</a>
                   </div>
                 </div>
               </div>
@@ -195,7 +195,7 @@
                       <h4 class="card-title">Обложување во живо</h4>
                       <h6 class="card-subtitle">Стратегија</h6>
                       <p class="card-text">Система за обложување во живо, додека го следите наптреварот.</p>
-                       <a href="#" class="btn btn-outline-primary">Повеќе</a>
+                       <a href="/betting-strategy/oblazuvanje-vo-zivo/" class="btn btn-outline-primary">Повеќе</a>
                   </div>
                 </div>
                </div>
@@ -204,9 +204,9 @@
           <div class="col-md-4">
             <div class="card">
               <div class="card-body">
-                  <h4 class="card-title">Какво значи кешаут?</h4>
-                  <p class="card-text">Чети подробно ръководство за Cash out.</p>
-                   <a href="#" class="btn btn-success btn-block">Уште</a>
+                  <h4 class="card-title">Што значи Cash out?</h4>
+                  <p class="card-text">Прочитајте подетални информации за Cash out.</p>
+                   <a href="/betting-strategy/strategija-za-cash-out/" class="btn btn-success btn-block">Уште</a>
               </div>
             </div>
           </div>

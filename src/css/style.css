@@ -46,13 +46,6 @@
 .w100 {
   width: 100%; }
 
-.rating-pic {
-  width: 15%;
-  background-image: url("/img/icons/bet365-logo.png");
-  background-size: 90%;
-  background-position: 10px;
-  background-repeat: no-repeat; }
-
 #main-footer .nav-pills {
   padding-bottom: 20px;
   border-bottom: 1px solid #fff; }
@@ -94,7 +87,7 @@
   border-radius: 6px;
   width: 100%;
   min-height: 100px;
-  padding: 20px 0;
+  padding: 40px 0;
   font-size: 15px;
   line-height: 1.375;
   color: #222;
@@ -118,7 +111,11 @@
   background-image: url(//s5o.ru/source/_desktop/sections/bets/views/characteristics/images/like-dislike.png); }
 
 .rating-card {
-  padding: 20px; }
+  padding: 20px;
+  width: 95%; }
+
+.main-rating-block {
+  justify-content: space-around; }
 
 .rating-card-content-wrapper {
   padding: 10px 0; }
@@ -146,6 +143,10 @@
 
 .lang-item img {
   padding: 5px; }
+
+.exchange {
+  padding: 20px;
+  font-weight: 500; }
 
 .book-icon {
   color: #7c6ed2; }
@@ -226,11 +227,11 @@
 .fa-check-circle {
   margin-right: 10px; }
 
-.pic-table img {
-  width: 50px; }
-
 .sdfsdfa {
   background-color: red; }
+
+.table-hover li {
+  list-style: none; }
 
 @media (min-width: 768px) {
   .bonus-card {
@@ -243,4 +244,6 @@
   .bet-description-card-item {
     width: 45%; }
   .lang-item {
-    width: 25%; } }
+    width: 25%; }
+  .rating-card {
+    width: 45%; } }

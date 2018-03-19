@@ -6,16 +6,16 @@
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto text-center">
-          <li class="nav-item dropdown">
+
+          <li class="nav-item">
+            <a href="/rating/" class="nav-link">Обложувалници</a>
+          </li>
+          <!--<li class="nav-item dropdown">
                     <a href="/rating/" class="nav-link dropdown-toggle" data-toggle="dropdown">Обложувалници</a>
+                    
                     <div class="dropdown-menu">
                       <a href="/rating/bet365-macedonia/" class="dropdown-item">bet365</a>
-                      <a href="#" class="dropdown-item">betfair</a>
-                      <a href="#" class="dropdown-item">godaddy</a>
-                      <a href="#" class="dropdown-item">frebet</a>
-                      <a href="#" class="dropdown-item">sportingbet</a>
-                      <a href="#" class="dropdown-item">oprabet</a>
-                    </div>
+                    </div>-->
           </li>
           <li class="nav-item">
             <a href="/bonus/" class="nav-link">Бонуси</a>

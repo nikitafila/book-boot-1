@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="mk-MK">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Bootstrap 4 Starter Pack</title>
+  <title>Букмейкърска къща bet365 - ревю, бонуси, линк за регистрация</title>
   <link rel="stylesheet" href="/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/bootstrap.css">
   <link rel="stylesheet" href="/css/style.css">
@@ -17,253 +17,313 @@
     <div class="row">
       <div class="col-lg-9">
         <main>
-          <h1 class="display-4 mb-4">Heading One</h1>
-          <section class="bet-description-card">
-                  <div class="bet-description-card-item">
-                    <span class="bet-description-card-item-top">
-                      <span class="bet-description-like"></span>
-                    </span>
-                    Максимальные коэффициенты
-                    <br>Раннее открытие линий
-                  </div>
-                  <div class="bet-description-card-item">
-                    <span class="bet-description-card-item-top">
-                      <span class="bet-description-like"></span>
-                    </span>
-                    Максимальные коэффициенты
-                    <br>Раннее открытие линий
-                  </div>
-              </section>
+          <h1 class="display-4 mb-5 text-center">Подробно ревю за Bet365 в Македония</h1>
+          
+              <div class="row main-rating-block">
+                <section class="card rating-card mb-4">
+                  <ul class="list-group">
+                    <a class="py-2" href="#lang">Езикови версии</a>
+                    <a class="py-2" href="#product">Продукти</a>
+                    <a class="py-2" href="#pay">Методи на плаќање</a>
+                    <a class="py-2" href="#exe">В коя валута можеш да отвориш сметка</a>
+                    <a class="py-2" href="#support">Контакти на техническа поддръжка</a>
+                </ul>
+                </section>
 
-              <section class="card rating-card col-md-6">
-                  <div class="h5 rating-card-title">
-                    Характеристики
-                    <span class="info">
-                      <span class="badge badge-primary">30</span>
-                    </span>
+                <section class="card rating-card">
+                    <div class="h5 rating-card-title">
+                      Характеристики
+                      <span class="info">
+                        <span class="badge badge-primary">30</span>
+                      </span>
+                    </div>
+                    <div class="rating-card-content">
+                      <div class="rating-card-content-wrapper">
+                        <div class="rating-card-item">
+                          <span class="text">Надійність</span>
+                          <span class="count">5</span>
+                        </div>
+                        <div class="progress">
+                         <div class="progress-bar bg-warning" style="width:70%;"></div>
+                        </div>
+                      </div>
+                      <div class="rating-card-content-wrapper">
+                        <div class="rating-card-item">
+                          <span class="text">Надійність</span>
+                          <span class="count">5</span>
+                        </div>
+                        <div class="progress">
+                         <div class="progress-bar bg-warning" style="width:70%;"></div>
+                        </div>
+                      </div>
+                      <div class="rating-card-content-wrapper">
+                        <div class="rating-card-item">
+                          <span class="text">Надійність</span>
+                          <span class="count">5</span>
+                        </div>
+                        <div class="progress">
+                         <div class="progress-bar bg-warning" style="width:70%;"></div>
+                        </div>
+                      </div>
+                      <div class="rating-card-content-wrapper">
+                        <div class="rating-card-item">
+                          <span class="text">Надійність</span>
+                          <span class="count">5</span>
+                        </div>
+                        <div class="progress">
+                         <div class="progress-bar bg-warning" style="width:70%;"></div>
+                        </div>
+                      </div>
+                      <div class="rating-card-content-wrapper">
+                        <div class="rating-card-item">
+                          <span class="text">Надійність</span>
+                          <span class="count">5</span>
+                        </div>
+                        <div class="progress">
+                         <div class="progress-bar bg-warning" style="width:70%;"></div>
+                        </div>
+                      </div>
+                      </div>
+                    </section>
                   </div>
-                  <div class="rating-card-content">
-                    <div class="rating-card-content-wrapper">
-                      <div class="rating-card-item">
-                        <span class="text">Надійність</span>
-                        <span class="count">5</span>
+
+                  <section class="bet-description-card my-5">
+                      <div class="bet-description-card-item">
+                        <span class="bet-description-card-item-top">
+                          <span class="bet-description-like"></span>
+                        </span>
+                        Голям избор на разплащателни методи
                       </div>
-                      <div class="progress">
-                       <div class="progress-bar bg-warning" style="width:70%;"></div>
+                      <div class="bet-description-card-item">
+                        <span class="bet-description-card-item-top">
+                          <span class="bet-description-like"></span>
+                        </span>
+                        Верификација на акаунт: 24 часа
                       </div>
+                  </section>
+
+                  <section class="my-5">
+                    <h2 class="h4" id="lang">Езикови версии</h2>
+                    <div class="lang-card">
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/united-kingdom.png" alt=""> Англиски
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/germany.png" alt=""> Немски
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/denmark.png" alt=""> Датски
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/sweden.png" alt=""> Шведски
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/norway.png" alt=""> Норвежки
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/romania.png" alt=""> Румынски
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/italy.png" alt=""> Италиански
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/spain.png" alt=""> Испански
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/greece.png" alt=""> Гръцки
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/poland.png" alt=""> Полски
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/slovenia.png" alt=""> Словенски
+                        </div>
+                        <div class="lang-item">
+                          <img src="/img/icons/lang/czech-republic.png" alt=""> Чешки
+                        </div>
                     </div>
-                    <div class="rating-card-content-wrapper">
-                      <div class="rating-card-item">
-                        <span class="text">Надійність</span>
-                        <span class="count">5</span>
-                      </div>
-                      <div class="progress">
-                       <div class="progress-bar bg-warning" style="width:70%;"></div>
-                      </div>
-                    </div>
-                    <div class="rating-card-content-wrapper">
-                      <div class="rating-card-item">
-                        <span class="text">Надійність</span>
-                        <span class="count">5</span>
-                      </div>
-                      <div class="progress">
-                       <div class="progress-bar bg-warning" style="width:70%;"></div>
-                      </div>
-                    </div>
-                    <div class="rating-card-content-wrapper">
-                      <div class="rating-card-item">
-                        <span class="text">Надійність</span>
-                        <span class="count">5</span>
-                      </div>
-                      <div class="progress">
-                       <div class="progress-bar bg-warning" style="width:70%;"></div>
-                      </div>
-                    </div>
-                    <div class="rating-card-content-wrapper">
-                      <div class="rating-card-item">
-                        <span class="text">Надійність</span>
-                        <span class="count">5</span>
-                      </div>
-                      <div class="progress">
-                       <div class="progress-bar bg-warning" style="width:70%;"></div>
-                      </div>
-                    </div>
+                  </section>
+
+                  <div class="container">
+                    <div class="row">
+                      <h2 class="h4" id="product">Продукти</h2>
+                      <table class="table">
+                          <thead>
+                              <tr>
+                                  <th class="text-center">
+                                    <i class="fa fa-book fa-3x book-icon mb-2"></i>
+                                    <p class="text-uppercase">Продукти</p>
+                                  </th>
+                                  <th>
+                                  <i class="fa fa-desktop fa-3x book-icon mb-2"></i>
+                                    <p class="text-uppercase">Сайт</p>
+                                  </th>
+                                  <th>
+                                    <i class="fa fa-apple fa-3x book-icon mb-2"></i>
+                                    <p class="text-uppercase">IOS</p>
+                                  </th>
+
+                                  <th>
+                                    <i class="fa fa-android fa-3x book-icon mb-2"></i>
+                                    <p class="text-uppercase">Android</p>
+                                  </th>
+                              </tr>
+                          </thead>
+                          <tbody>
+                              <tr>
+                                  <th>Регистрациja</th>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>Уплата</th>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>Live-чат</th>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>Спорт</th>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>Live-казино</th>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>Покер</th>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>Фінансовий беттинг</th>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>еСпорт облози</th>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                              </tr>
+                              <tr>
+                                  <th>Пренос во живо</th>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                                  <td><i class="fa fa-2x fa-times"></i></td>
+                                  <td><i class="fa fa-2x fa-check"></i></td>
+                              </tr>
+                          </tbody>
+                      </table>
+
+                      <h2 class="h4 text-center mt-5" id="pay">Методи на плаќање</h2>
+
+                      <table class="table mb-5">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Мин. Теглене</th>
+                                <th>Такса</th>
+                                <th>Колко бър</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th class="pic-table">
+                                  <img src="/img/icons/payments/visa.png" alt="">
+                                </th>
+                                <td class="align-middle">10 USD</td>
+                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">До 3 дни</td>
+                            </tr>
+                            <tr>
+                                <th class="pic-table">
+                                  <img src="/img/icons/payments/mastercard.png" alt="">
+                                </th>
+                                <td class="align-middle">10 USD</td>
+                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">До 3 дни</td>
+                            </tr>
+                            <tr>
+                                <th class="pic-table">
+                                  <img src="/img/icons/payments/maestro.png" alt="">
+                                </th>
+                                <td class="align-middle">10 USD</td>
+                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">До 3 дни</td>
+                            </tr>
+                            <tr>
+                                <th class="pic-table">
+                                  <img src="/img/icons/payments/skrill.png" alt="">
+                                </th>
+                                <td class="align-middle">10 USD</td>
+                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">До 24 часа</td>
+                            </tr>
+                            <tr>
+                                <th class="pic-table">
+                                  <img src="/img/icons/payments/neteller.png" alt="">
+                                </th>
+                                <td class="align-middle">20 USD</td>
+                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">До 24 часа</td>
+                            </tr>
+                            <tr>
+                                <th class="pic-table">
+                                  <img src="/img/icons/payments/paysafecard-logo.png" alt="">
+                                </th>
+                                <td class="align-middle">10 USD</td>
+                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">До 24 часа</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                  </div>
+                </div>
+
+                <section class="my-5">
+                    <h2 class="h4" id="exe">В коя валута можеш да отвориш сметка</h2>
+                    <div class="lang-card">
+                        <div class="lang-item exchange">
+                          <span>EUR</span>
+                          <span>евро</span>
+                        </div>
+                        <div class="lang-item exchange">
+                          <span>EUR</span>
+                          <span>евро</span>
+                        </div>
+                        <div class="lang-item exchange">
+                          <span>EUR</span>
+                          <span>евро</span>
+                        </div>
+                        <div class="lang-item exchange">
+                          <span>EUR</span>
+                          <span>евро</span>
+                        </div>
                     </div>
                   </section>
 
                   <section class="my-5">
-                    <h2 class="h4">Езикови версии</h2>
-                    <div class="lang-card">
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                        <div class="lang-item">
-                          <img src="https://bookmaker-ratings.com.ua/wp-content/uploads/sites/6/2015/06/Russia.png" alt=""> Русский
-                        </div>
-                    </div>
+                    <h2 class="h4" id="support">Контакти на техническа поддръжка</h2>
+                    <ul class="list-group mb-5">
+                        <li class="list-group-item list-group-item-info">email: </li>
+                        <li class="list-group-item list-group-item-info">Телефон: </li>
+                        <li class="list-group-item list-group-item-info">Чат во живо</li>
+                    </ul>
                   </section>
 
-                  <table class="table">
-                      <thead>
-                          <tr>
-                              <th class="text-center">
-                                <i class="fa fa-book fa-3x book-icon mb-2"></i>
-                                <p class="text-uppercase">Продукти</p>
-                              </th>
-                              <th>
-                              <i class="fa fa-desktop fa-3x book-icon mb-2"></i>
-                                <p class="text-uppercase">Сайт</p>
-                              </th>
-                              <th>
-                                <i class="fa fa-apple fa-3x book-icon mb-2"></i>
-                                <p class="text-uppercase">IOS</p>
-                              </th>
-
-                              <th>
-                                <i class="fa fa-android fa-3x book-icon mb-2"></i>
-                                <p class="text-uppercase">Android</p>
-                              </th>
-                          </tr>
-                      </thead>
-                      <tbody>
-                          <tr>
-                              <th>Реєстрація</th>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Депозит</th>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Live-чат</th>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Спорт</th>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Live-казино</th>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Покер</th>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Фінансовий беттинг</th>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Кіберспорт</th>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                          </tr>
-                          <tr>
-                              <th>Трансляція матчів</th>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                              <td><i class="fa fa-2x fa-times"></i></td>
-                              <td><i class="fa fa-2x fa-check"></i></td>
-                          </tr>
-                      </tbody>
-                  </table>
-
-                  <table class="table my-5">
-                    <thead>
-                        <tr>
-                            <th></th>
-                            <th>Мин. Депозит</th>
-                            <th>Мин. Теглене</th>
-                            <th>Колко бър</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th class="pic-table">
-                              <img src="/img/icons/visa.png" alt="">
-                            </th>
-                            <td>John</td>
-                            <td>Doe</td>
-                            <td>jdoe@l.com</td>
-                        </tr>
-                        <tr>
-                            <th>2</th>
-                            <td>Will</td>
-                            <td>Johnson</td>
-                            <td>w</td>
-                        </tr>
-                        <tr>
-                            <th>3</th>
-                            <td>Shannon</td>
-                            <td>Williams</td>
-                            <td></td>
-                        </tr>
-                    </tbody>
-                </table>
-
-                <ul class="list-group mb-5">
-                    <li class="list-group-item list-group-item-info">Info List Item</li>
-                    <li class="list-group-item list-group-item-info">Info List Item</li>
-                    <li class="list-group-item list-group-item-info">Info List Item</li>
-                    <li class="list-group-item list-group-item-info">Info List Item</li>
-                    <li class="list-group-item list-group-item-info">Info List Item</li>
-                    <li class="list-group-item list-group-item-info">Info List Item</li>
-                    <li class="list-group-item list-group-item-info">Info List Item</li>
-                </ul>
-
-                <p>Онлайн платфирмата на Bet365 има отлична структура и дизайн в цветовете на бранда – жълто и зелено. Навигацията, включваща менюто и връзките за движение в сайта е опростена, за да улесни нас потребителите. Главното меню отгоре е разделено на секции: "Спорт", "Казино","На живо",  "Покер", което намирам за много удобно.</p>
-
-                <p>Онлайн платфирмата на Bet365 има отлична структура и дизайн в цветовете на бранда – жълто и зелено. Навигацията, включваща менюто и връзките за движение в сайта е опростена, за да улесни нас потребителите. Главното меню отгоре е разделено на секции: "Спорт", "Казино","На живо",  "Покер", което намирам за много удобно.</p>
-
-                <p>Онлайн платфирмата на Bet365 има отлична структура и дизайн в цветовете на бранда – жълто и зелено. Навигацията, включваща менюто и връзките за движение в сайта е опростена, за да улесни нас потребителите. Главното меню отгоре е разделено на секции: "Спорт", "Казино","На живо",  "Покер", което намирам за много удобно.</p>
-
-                <div class="info-box"><i class="fa fa-info"></i>Онлайн платфирмата на Bet365 има отлична структура и дизайн в цветовете на бранда – жълто и зелено. Навигацията, включваща менюто и връзките за движение в сайта е опростена, за да улесни нас потребителите. Главното меню отгоре е разделено на секции: "Спорт", "Казино","На живо",  "Покер", което намирам за много удобно.</div>
-
+                <div class="info-box mb-4"><i class="fa fa-info"></i>Онлайн платформата на Bet365 има отлична структура и дизайн в цветовете на бранда – жълто и зелено. Навигацията, включваща менюто и връзките за движение в сайта е опростена, за да улесни нас потребителите. Главното меню отгоре е разделено на секции: "Спорт", "Казино","На живо",  "Покер".</div>
         </main>
       </div>
       <div class="col-lg-3">
@@ -286,26 +346,26 @@
                 <div class="row-book">
                   <div class="book-number">1</div>
                   <div class="book-text">
-                    <span>Регистрация</span>
-                    <span class="small-bonus-text">Регистрирай се в bet</span>
+                    <span>Регистрациjа</span>
+                    <span class="small-bonus-text">Регистрираj се во bet365</span>
                   </div>
                 </div>
                 <div class="row-book">
                   <div class="book-number">2</div>
                   <div class="book-text">
                     <span>Направи депозит</span>
-                    <span class="small-bonus-text">Минимален депозит от 1 евро</span>
+                    <span class="small-bonus-text">Минимален депозит от 60 денари</span>
                   </div>
                 </div>
                 <div class="row-book">
                   <div class="book-number">3</div>
                   <div class="book-text">
-                    <span>Всези бонус</span>
-                    <span class="small-bonus-text">Максимален стартов бонус 100 евро</span>
+                    <span>Земи бонус</span>
+                    <span class="small-bonus-text">Максимален стартен бонус 6000 денари</span>
                   </div>
                 </div>
                 <div class="row-book-last">
-                  <span class="botton-book">Регистрация</span>
+                  <span class="botton-book">Регистрациjа</span>
                   <span class="botton-book">Линк за бонус</span>
                 </div>
               </section>
