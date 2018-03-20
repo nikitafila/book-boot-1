@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <?php require '/include/header.php';?>
+  <?php require 'include/header.php';?>
     <!-- AUTHORS -->
   <section id="authors" class="my-5 text-center">
     <div class="container">
@@ -182,7 +182,7 @@
               <div class="col-md-12 mb-4">
                 <div class="card">
                   <div class="card-body">
-                      <h4 class="card-title">Залагане на футбол мачове</h4>
+                      <h4 class="card-title">Обложување на фудбалски натпревари</h4>
                       <h6 class="card-subtitle">Стратегија</h6>
                       <p class="card-text">Детален систем за обложување на фудбалски натпревари.</p>
                        <a href="/betting-strategy/kako-da-zarabotite-od-oblazuvanje/" class="btn btn-outline-primary">Прочитаj Повеќе</a>
@@ -214,7 +214,7 @@
     </div>
   </section>
 
-  <?php require '/include/footer.php';?>
+  <?php require 'include/footer.php';?>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>

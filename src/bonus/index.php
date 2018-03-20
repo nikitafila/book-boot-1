@@ -16,7 +16,7 @@
   <main>
     <section class="container d-flex justify-content-around flex-row flex-wrap my-5">
         <h1 class="w100 text-center h3 mb-4">Топ понуди на македонскиот пазар</h1>
-        <div class="card bonus-card text-white bg-primary mb-3">
+        <div class="card bonus-card text-white bg-warning mb-3">
           <div class="card-header">Бонус при регистрација</div>
           <div class="card-body">
             <h4 class="card-title">100 евро</h4>
@@ -32,86 +32,38 @@
           </div>
         </div>
 
-        <div class="card bonus-card text-white bg-secondary mb-3">
-          <div class="card-header">Бонус при регистрация</div>
-          <div class="card-body">
-            <h4 class="card-title">100 евро</h4>
-            <p class="card-text">
-              <ul class="list-unstyled">
-                <li>За първи депозит</li>
-                <li>5x врътки</li>
-                <li>Само за нови клиенти</li>
-                <li>Минимален депозит: 10 евро</li>
-                <li>100% бонус</li>
-              </ul>
-            </p>
-          </div>
-        </div>
-
-        <div class="card bonus-card text-white bg-success mb-3">
-          <div class="card-header">Бонус при регистрация</div>
-          <div class="card-body">
-            <h4 class="card-title">100 евро</h4>
-            <p class="card-text">
-              <ul class="list-unstyled">
-                <li>За първи депозит</li>
-                <li>5x врътки</li>
-                <li>Само за нови клиенти</li>
-                <li>Минимален депозит: 10 евро</li>
-                <li>100% бонус</li>
-              </ul>
-            </p>
-          </div>
-        </div>
-
         <div class="card bonus-card text-white bg-info mb-3">
-          <div class="card-header">Бонус при регистрация</div>
+          <div class="card-header">Бонус при регистрација</div>
           <div class="card-body">
-            <h4 class="card-title">100 евро</h4>
+            <h4 class="card-title">50 евро</h4>
             <p class="card-text">
               <ul class="list-unstyled">
-                <li>За първи депозит</li>
-                <li>5x врътки</li>
+                <li>За прв депозит</li>
+                <li>5x превртувања</li>
                 <li>Само за нови клиенти</li>
-                <li>Минимален депозит: 10 евро</li>
+                <li>Минимален депозит: 600 денари</li>
                 <li>100% бонус</li>
               </ul>
             </p>
           </div>
         </div>
 
-        <div class="card bonus-card text-white bg-warning mb-3">
-          <div class="card-header">Бонус при регистрация</div>
+        <div class="card bonus-card text-white bg-primary mb-3">
+          <div class="card-header">Бонус при регистрација</div>
           <div class="card-body">
-            <h4 class="card-title">100 евро</h4>
+            <h4 class="card-title">6000 денари</h4>
             <p class="card-text">
               <ul class="list-unstyled">
-                <li>За първи депозит</li>
-                <li>5x врътки</li>
+                <li>За прв депозит</li>
+                <li>5x превртувања</li>
                 <li>Само за нови клиенти</li>
-                <li>Минимален депозит: 10 евро</li>
+                <li>Минимален депозит: 600 денари</li>
                 <li>100% бонус</li>
               </ul>
             </p>
           </div>
         </div>
-        
-        <div class="card bonus-card text-white bg-danger mb-3">
-          <div class="card-header">Бонус при регистрация</div>
-          <div class="card-body">
-            <h4 class="card-title">100 евро</h4>
-            <p class="card-text">
-              <ul class="list-unstyled">
-                <li>За първи депозит</li>
-                <li>5x врътки</li>
-                <li>Само за нови клиенти</li>
-                <li>Минимален депозит: 10 евро</li>
-                <li>100% бонус</li>
-              </ul>
-            </p>
-          </div>
-        </div>
-    </section>
+      </section>
     <!-- NEWSLETTER -->
     <section id="newsletter" class="bg-secondary text-white py-4">
       <div class="container">

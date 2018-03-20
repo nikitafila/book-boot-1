@@ -18,7 +18,7 @@
       <h1 class="w100 text-center h2 mb-4">Полезни стратегии за залагане на спорт</h1>
       <div class="row">
         
-        <div class="col-md-9">
+        <div class="col-lg-9">
           <!-- LIST GROUP WITH LINKS -->
           <ul class="list-group mb-5">
               <li class="list-group-item list-group-item-warning">Футбол стратегии</li>
@@ -31,20 +31,16 @@
         <div class="col-lg-3">
         <aside>
 
-          <section class="vidlet-aria">
-                <div class="title-vidlet"><i class="fa fa-2x fa-check-circle"></i>
-                  За букмейкъра
-                </div>
-                <div class="vidlet-main">
-                  <span>Основан: 2000</span>
-                  <span>Страна: Великобритания</span>
-                  <span>Езици: BG, EN и други</span>
-                  <span>Лиценз: UK, България, Гибралтар</span>
-                  <span>Уебсайт: Bet365.com</span>
-                </div>
-              </section>
+              <!-- SIMPLE CARD -->
+        <div class="card my-4">
+            <div class="card-body">
+                <h4 class="card-title">Видови на облози</h4>
+                <p class="card-text">Разликата между сингл и комбиниран облози</p>
+                 <a href="/betting-glossary/" class="btn btn-outline-primary w100">Уште</a>
+            </div>
+        </div>
 
-              <section class="book mt-4">
+        <section class="book mt-4">
                 <div class="row-book">
                   <div class="book-number">1</div>
                   <div class="book-text">
@@ -67,10 +63,21 @@
                   </div>
                 </div>
                 <div class="row-book-last">
-                  <span class="botton-book">Регистрациjа</span>
-                  <span class="botton-book">Линк за бонус</span>
+                  <a href="/rating/bet365-macedonia/" class="botton-book">Регистрациjа</a>
+                  <a href="/rating/bet365-macedonia/" class="botton-book">Линк за бонус</a>
                 </div>
               </section>
+
+       
+
+        <div class="card bg-light my-4">
+          <div class="card-header"></div>
+          <div class="card-body">
+            <h4 class="card-title">Обложување во живо</h4>
+            <p class="card-text">Залози во живо за играчи кои не се склони да ризикуваат</p>
+            <a href="/betting-strategy/oblazuvanje-vo-zivo/" class="btn btn-outline-primary w100">Уште</a>
+          </div>
+        </div>
         </aside>
       </div>
       </div>

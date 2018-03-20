@@ -15,7 +15,7 @@
     
   <section class="container my-5">
     <div class="row">
-      <article class="col-md-9">
+      <article class="col-lg-9">
 
        <h1 class="display-4 mb-4">Стратегија за обложување на голови Под/Над</h1>
 
@@ -65,66 +65,51 @@
 
 
       </article>
-      <aside class="col-md-3">
-        <!-- BLOCK -->
-        <div class="card">
-            <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, voluptate.
-            </div>
-        </div>
-
+      <aside class="col-lg-3">
+        
         <!-- SIMPLE CARD -->
         <div class="card my-4">
             <div class="card-body">
-                <h4 class="card-title">Card Title</h4>
-                <h6 class="card-subtitle">Card subtitle</h6>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
-                 <a href="#" class="btn btn-outline-primary">Read More</a>
+                <h4 class="card-title">Видови на облози</h4>
+                <p class="card-text">Разликата между сингл и комбиниран облози</p>
+                 <a href="/betting-glossary/" class="btn btn-outline-primary w100">Уште</a>
             </div>
         </div>
 
-        <!-- CARD WITH IMAGE -->
-        <div class="card">
-            <img class="card-img-top" src="http://lorempixel.com/300/300/sports/" alt="Card image cap">
-            <div class="card-body">
-                <h4 class="card-title">Card Title</h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
-                 <a href="#" class="btn btn-success btn-block">Read More</a>
-            </div>
-        </div>
+        <section class="book mt-4">
+                <div class="row-book">
+                  <div class="book-number">1</div>
+                  <div class="book-text">
+                    <span>Регистрациjа</span>
+                    <span class="small-bonus-text">Регистрираj се во bet365</span>
+                  </div>
+                </div>
+                <div class="row-book">
+                  <div class="book-number">2</div>
+                  <div class="book-text">
+                    <span>Направи депозит</span>
+                    <span class="small-bonus-text">Минимален депозит от 60 денари</span>
+                  </div>
+                </div>
+                <div class="row-book">
+                  <div class="book-number">3</div>
+                  <div class="book-text">
+                    <span>Земи бонус</span>
+                    <span class="small-bonus-text">Максимален стартен бонус 6000 денари</span>
+                  </div>
+                </div>
+                <div class="row-book-last">
+                  <a href="/rating/bet365-macedonia/" class="botton-book">Регистрациjа</a>
+                  <a href="/rating/bet365-macedonia/" class="botton-book">Линк за бонус</a>
+                </div>
+              </section>
 
-        <!-- CARD WITH HEADER -->
-        <div class="card my-4">
-            <div class="card-header">
-                My Card
-            </div>
-            <div class="card-body">
-                <h4 class="card-title">Card Title</h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
-                <a href="#" class="btn btn-danger">Read More</a>
-            </div>
-        </div>
-
-        <!-- HEADER, FOOTER, CENTERED -->
-        <div class="card text-center">
-            <div class="card-header">
-                My Card
-            </div>
-            <div class="card-body">
-                <h4 class="card-title">Card Title</h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
-                <a href="#" class="btn btn-danger">Read More</a>
-            </div>
-            <div class="card-footer text-muted">
-              2 Days Ago
-            </div>
-        </div>
-
-        <div class="card text-white bg-warning my-4">
-          <div class="card-header">Header</div>
+        <div class="card bg-light my-4">
+          <div class="card-header"></div>
           <div class="card-body">
-            <h4 class="card-title">Primary card title</h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+            <h4 class="card-title">Обложување во живо</h4>
+            <p class="card-text">Залози во живо за играчи кои не се склони да ризикуваат</p>
+            <a href="/betting-strategy/oblazuvanje-vo-zivo/" class="btn btn-outline-primary w100">Уште</a>
           </div>
         </div>
 

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Букмейкърска къща bet365 - ревю, бонуси, линк за регистрация</title>
+  <title>Обложувалница bet365 - рецензија, бонуси, линк за регистрација</title>
   <link rel="stylesheet" href="/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/bootstrap.css">
   <link rel="stylesheet" href="/css/style.css">
@@ -17,31 +17,49 @@
     <div class="row">
       <div class="col-lg-9">
         <main>
-          <h1 class="display-4 mb-5 text-center">Подробно ревю за Bet365 в Македония</h1>
+          <h1 class="display-4 mb-5 text-center">Детална рецензија за Bet365 во Македонија</h1>
           
               <div class="row main-rating-block">
                 <section class="card rating-card mb-4">
                   <ul class="list-group">
                     <a class="py-2" href="#lang">Езикови версии</a>
-                    <a class="py-2" href="#product">Продукти</a>
+                    <a class="py-2" href="#product">Понуди</a>
                     <a class="py-2" href="#pay">Методи на плаќање</a>
-                    <a class="py-2" href="#exe">В коя валута можеш да отвориш сметка</a>
-                    <a class="py-2" href="#support">Контакти на техническа поддръжка</a>
+                    <a class="py-2" href="#exe">Во која валута може да отворите сметка</a>
+                    <a class="py-2" href="#support">Контакт за техничка поддржка</a>
                 </ul>
                 </section>
 
                 <section class="card rating-card">
                     <div class="h5 rating-card-title">
-                      Характеристики
+                      Карактеристики
                       <span class="info">
-                        <span class="badge badge-primary">30</span>
+                        <span class="badge badge-primary">bet365</span>
                       </span>
                     </div>
                     <div class="rating-card-content">
                       <div class="rating-card-content-wrapper">
                         <div class="rating-card-item">
-                          <span class="text">Надійність</span>
-                          <span class="count">5</span>
+                          <span class="text">Спортски продукт</span>
+                          <span class="count">9</span>
+                        </div>
+                        <div class="progress">
+                         <div class="progress-bar bg-warning" style="width:90%;"></div>
+                        </div>
+                      </div>
+                      <div class="rating-card-content-wrapper">
+                        <div class="rating-card-item">
+                          <span class="text">Продукт во живо</span>
+                          <span class="count">9</span>
+                        </div>
+                        <div class="progress">
+                         <div class="progress-bar bg-warning" style="width:90%;"></div>
+                        </div>
+                      </div>
+                      <div class="rating-card-content-wrapper">
+                        <div class="rating-card-item">
+                          <span class="text">Коефициенти</span>
+                          <span class="count">7</span>
                         </div>
                         <div class="progress">
                          <div class="progress-bar bg-warning" style="width:70%;"></div>
@@ -49,38 +67,20 @@
                       </div>
                       <div class="rating-card-content-wrapper">
                         <div class="rating-card-item">
-                          <span class="text">Надійність</span>
-                          <span class="count">5</span>
+                          <span class="text">Методи на плаќање</span>
+                          <span class="count">9</span>
                         </div>
                         <div class="progress">
-                         <div class="progress-bar bg-warning" style="width:70%;"></div>
+                         <div class="progress-bar bg-warning" style="width:90%;"></div>
                         </div>
                       </div>
                       <div class="rating-card-content-wrapper">
                         <div class="rating-card-item">
-                          <span class="text">Надійність</span>
-                          <span class="count">5</span>
+                          <span class="text">Техничка поддржка 24/7</span>
+                          <span class="count">8</span>
                         </div>
                         <div class="progress">
-                         <div class="progress-bar bg-warning" style="width:70%;"></div>
-                        </div>
-                      </div>
-                      <div class="rating-card-content-wrapper">
-                        <div class="rating-card-item">
-                          <span class="text">Надійність</span>
-                          <span class="count">5</span>
-                        </div>
-                        <div class="progress">
-                         <div class="progress-bar bg-warning" style="width:70%;"></div>
-                        </div>
-                      </div>
-                      <div class="rating-card-content-wrapper">
-                        <div class="rating-card-item">
-                          <span class="text">Надійність</span>
-                          <span class="count">5</span>
-                        </div>
-                        <div class="progress">
-                         <div class="progress-bar bg-warning" style="width:70%;"></div>
+                         <div class="progress-bar bg-warning" style="width:80%;"></div>
                         </div>
                       </div>
                       </div>
@@ -92,7 +92,7 @@
                         <span class="bet-description-card-item-top">
                           <span class="bet-description-like"></span>
                         </span>
-                        Голям избор на разплащателни методи
+                        Голем избор на методи за плаќање
                       </div>
                       <div class="bet-description-card-item">
                         <span class="bet-description-card-item-top">
@@ -109,31 +109,31 @@
                           <img src="/img/icons/lang/united-kingdom.png" alt=""> Англиски
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/germany.png" alt=""> Немски
+                          <img src="/img/icons/lang/germany.png" alt=""> Германски
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/denmark.png" alt=""> Датски
+                          <img src="/img/icons/lang/denmark.png" alt=""> Дански
                         </div>
                         <div class="lang-item">
                           <img src="/img/icons/lang/sweden.png" alt=""> Шведски
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/norway.png" alt=""> Норвежки
+                          <img src="/img/icons/lang/norway.png" alt=""> Норвешки
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/romania.png" alt=""> Румынски
+                          <img src="/img/icons/lang/romania.png" alt=""> Романски
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/italy.png" alt=""> Италиански
+                          <img src="/img/icons/lang/italy.png" alt=""> Италијански
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/spain.png" alt=""> Испански
+                          <img src="/img/icons/lang/spain.png" alt=""> Шпански
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/greece.png" alt=""> Гръцки
+                          <img src="/img/icons/lang/greece.png" alt=""> Грчки
                         </div>
                         <div class="lang-item">
-                          <img src="/img/icons/lang/poland.png" alt=""> Полски
+                          <img src="/img/icons/lang/bulgaria.png" alt=""> Бугарски
                         </div>
                         <div class="lang-item">
                           <img src="/img/icons/lang/slovenia.png" alt=""> Словенски
@@ -146,17 +146,17 @@
 
                   <div class="container">
                     <div class="row">
-                      <h2 class="h4" id="product">Продукти</h2>
+                      <h2 class="h4" id="product">Понуди</h2>
                       <table class="table">
                           <thead>
                               <tr>
                                   <th class="text-center">
                                     <i class="fa fa-book fa-3x book-icon mb-2"></i>
-                                    <p class="text-uppercase">Продукти</p>
+                                    <p class="text-uppercase">Понуди</p>
                                   </th>
                                   <th>
                                   <i class="fa fa-desktop fa-3x book-icon mb-2"></i>
-                                    <p class="text-uppercase">Сайт</p>
+                                    <p class="text-uppercase">Саjт</p>
                                   </th>
                                   <th>
                                     <i class="fa fa-apple fa-3x book-icon mb-2"></i>
@@ -183,7 +183,7 @@
                                   <td><i class="fa fa-2x fa-check"></i></td>
                               </tr>
                               <tr>
-                                  <th>Live-чат</th>
+                                  <th>Разговор во живо</th>
                                   <td><i class="fa fa-2x fa-check"></i></td>
                                   <td><i class="fa fa-2x fa-check"></i></td>
                                   <td><i class="fa fa-2x fa-check"></i></td>
@@ -195,7 +195,7 @@
                                   <td><i class="fa fa-2x fa-check"></i></td>
                               </tr>
                               <tr>
-                                  <th>Live-казино</th>
+                                  <th>Live казино</th>
                                   <td><i class="fa fa-2x fa-check"></i></td>
                                   <td><i class="fa fa-2x fa-check"></i></td>
                                   <td><i class="fa fa-2x fa-check"></i></td>
@@ -207,7 +207,7 @@
                                   <td><i class="fa fa-2x fa-times"></i></td>
                               </tr>
                               <tr>
-                                  <th>Фінансовий беттинг</th>
+                                  <th>Финансиско обложување</th>
                                   <td><i class="fa fa-2x fa-times"></i></td>
                                   <td><i class="fa fa-2x fa-times"></i></td>
                                   <td><i class="fa fa-2x fa-times"></i></td>
@@ -233,9 +233,9 @@
                         <thead>
                             <tr>
                                 <th></th>
-                                <th>Мин. Теглене</th>
-                                <th>Такса</th>
-                                <th>Колко бър</th>
+                                <th>Мин. Повлекување</th>
+                                <th>Без надомест</th>
+                                <th>Времетраење за повлекување</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -243,48 +243,48 @@
                                 <th class="pic-table">
                                   <img src="/img/icons/payments/visa.png" alt="">
                                 </th>
-                                <td class="align-middle">10 USD</td>
-                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">10 EURO</td>
+                                <td class="align-middle">Нема</td>
                                 <td class="align-middle">До 3 дни</td>
                             </tr>
                             <tr>
                                 <th class="pic-table">
                                   <img src="/img/icons/payments/mastercard.png" alt="">
                                 </th>
-                                <td class="align-middle">10 USD</td>
-                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">10 EUR</td>
+                                <td class="align-middle">Нема</td>
                                 <td class="align-middle">До 3 дни</td>
                             </tr>
                             <tr>
                                 <th class="pic-table">
                                   <img src="/img/icons/payments/maestro.png" alt="">
                                 </th>
-                                <td class="align-middle">10 USD</td>
-                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">10 EUR</td>
+                                <td class="align-middle">Нема</td>
                                 <td class="align-middle">До 3 дни</td>
                             </tr>
                             <tr>
                                 <th class="pic-table">
                                   <img src="/img/icons/payments/skrill.png" alt="">
                                 </th>
-                                <td class="align-middle">10 USD</td>
-                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">10 EUR</td>
+                                <td class="align-middle">Нема</td>
                                 <td class="align-middle">До 24 часа</td>
                             </tr>
                             <tr>
                                 <th class="pic-table">
                                   <img src="/img/icons/payments/neteller.png" alt="">
                                 </th>
-                                <td class="align-middle">20 USD</td>
-                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">20 EUR</td>
+                                <td class="align-middle">Нема</td>
                                 <td class="align-middle">До 24 часа</td>
                             </tr>
                             <tr>
                                 <th class="pic-table">
                                   <img src="/img/icons/payments/paysafecard-logo.png" alt="">
                                 </th>
-                                <td class="align-middle">10 USD</td>
-                                <td class="align-middle">Няма</td>
+                                <td class="align-middle">10 EUR</td>
+                                <td class="align-middle">Нема</td>
                                 <td class="align-middle">До 24 часа</td>
                             </tr>
                         </tbody>
@@ -293,29 +293,25 @@
                 </div>
 
                 <section class="my-5">
-                    <h2 class="h4" id="exe">В коя валута можеш да отвориш сметка</h2>
+                    <h2 class="h4" id="exe">Во која валута може да отворите сметка</h2>
                     <div class="lang-card">
                         <div class="lang-item exchange">
                           <span>EUR</span>
                           <span>евро</span>
                         </div>
                         <div class="lang-item exchange">
-                          <span>EUR</span>
-                          <span>евро</span>
+                          <span>USD</span>
+                          <span>долар</span>
                         </div>
                         <div class="lang-item exchange">
-                          <span>EUR</span>
-                          <span>евро</span>
+                          <span>BGN</span>
+                          <span>Левове</span>
                         </div>
-                        <div class="lang-item exchange">
-                          <span>EUR</span>
-                          <span>евро</span>
-                        </div>
-                    </div>
+                      </div>
                   </section>
 
                   <section class="my-5">
-                    <h2 class="h4" id="support">Контакти на техническа поддръжка</h2>
+                    <h2 class="h4" id="support">Контакт за техничка поддржка</h2>
                     <ul class="list-group mb-5">
                         <li class="list-group-item list-group-item-info">email: </li>
                         <li class="list-group-item list-group-item-info">Телефон: </li>
@@ -331,14 +327,14 @@
 
           <section class="vidlet-aria">
                 <div class="title-vidlet"><i class="fa fa-2x fa-check-circle"></i>
-                  За букмейкъра
+                  За обложувалницата
                 </div>
                 <div class="vidlet-main">
-                  <span>Основан: 2000</span>
-                  <span>Страна: Великобритания</span>
-                  <span>Езици: BG, EN и други</span>
-                  <span>Лиценз: UK, България, Гибралтар</span>
-                  <span>Уебсайт: Bet365.com</span>
+                  <span>Основана: 2000</span>
+                  <span>Држава: Велика Британија</span>
+                  <span>Јазик: EN, BG и други</span>
+                  <span>Лиценца: UK, Бугарија, Гибралтар</span>
+                  <span>Веб сајт: Bet365.com</span>
                 </div>
               </section>
 

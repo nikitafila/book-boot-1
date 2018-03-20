@@ -1,0 +1,12 @@
+RemoveHandler .html .htm
+AddType application/x-httpd-php .php .htm .html .phtml
+
+DirectoryIndex index.php
+
+AddHandler application/x-httpd-php .html
+AddHandler cgi-script .pl .py .jsp .asp .htm .shtml .sh .cgi
+AddType application/x-javascript .js
+AddType text/css .css
+AddType text/xml .xml
+AddType application/octet-stream .doc .mov .avi .pdf .xls 
+# ForceType application/x-httpd-php
