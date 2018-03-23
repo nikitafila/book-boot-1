@@ -22,7 +22,7 @@
         </div>
         <div class="col-md-6 mt-auto">
           <a href="/">
-            <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
+            <img src="/img/mlogo.png" alt=""><h5 class="d-inline align-middle ml-5">Dobiten.mk</h5>
           </a>
           <p class="lead">Обложувањето е забрането за лица под 18 години.</p>
           <p class="lead">Copyright &copy; 2018</p>

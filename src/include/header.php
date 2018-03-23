@@ -1,7 +1,7 @@
 <header>
   <nav class="navbar navbar-expand-md navbar-light py-2">
       <a href="/" class="navbar-brand">
-        <img src="/img/mlogo.png" width="50" height="50" alt=""><h3 class="d-inline align-middle">Mizuxe</h3>
+        <img src="/img/mlogo.png" alt="">
       </a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
       <div class="collapse navbar-collapse" id="navbarNav">
