@@ -19,17 +19,6 @@
 
        <h1 class="display-4 mb-4">Стратегија за обложување на голови Под/Над</h1>
 
-        <!-- CONTEXTUAL CLASSES -->
-        <ul class="list-group mb-5">
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-        </ul>
-
         <p>Секој љубител на фудбалот сака да го види најдоброто од натпреварот – голови. Сепак, фудбалот е игра каде што целта е да се постигне гол. Во следнита статија ќе ви покажњмњ како и каде да добиете максимум кога ќе одлучите да се обложите на голови.</p>
 
         <p>Интернетот е полн со информации и различни статистики од кои можете да дознаете се за  тимовите, но ние ќе ве запознаеме со принципите кои треба да ги следите при вашиот залог и лигите во кои се постигнуваат многу голови по натпревар .Обложувалниците ви даваат различни можности за облог од типот Над / Под одреден број голови, како коефициентот започнува од 0.5 и може да достигне многу повеќе, пример 7.5.</p>

@@ -19,16 +19,6 @@
 
        <h1 class="display-4 mb-4">Залагане на футбол мачове</h1>
 
-        <!-- CONTEXTUAL CLASSES -->
-        <ul class="list-group mb-5">
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-        </ul>
 
         <p>Сакате да обложувате на фудбалски натпревари? Всушност, штом го читате ова, веројатно веќе се обложувате.</p>
 
