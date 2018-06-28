@@ -314,12 +314,12 @@
                     <h2 class="h4" id="support">Контакт за техничка поддржка</h2>
                     <ul class="list-group mb-5">
                         <li class="list-group-item list-group-item-info">email: </li>
-                        <li class="list-group-item list-group-item-info">Телефон: </li>
-                        <li class="list-group-item list-group-item-info">Чат во живо</li>
+                        <li class="list-group-item list-group-item-info">Телефон: +441782 684 636</li>
+                        <li class="list-group-item list-group-item-info"><a href="https://members.bet365.com/Members/chat/?prdid=1&ibpid=2650&lng=19&rUrl=www.bet365.com&ver=2" target="_blank">Чат во живо</a></li>
                     </ul>
                   </section>
 
-                <div class="info-box mb-4"><i class="fa fa-info"></i>Онлайн платформата на Bet365 има отлична структура и дизайн в цветовете на бранда – жълто и зелено. Навигацията, включваща менюто и връзките за движение в сайта е опростена, за да улесни нас потребителите. Главното меню отгоре е разделено на секции: "Спорт", "Казино","На живо",  "Покер".</div>
+               
         </main>
       </div>
       <div class="col-lg-3">

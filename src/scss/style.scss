@@ -190,6 +190,9 @@ $primary-overlay:rgba(50,146,166,0.8);
   font-weight: 500;
   box-sizing: border-box;
 }
+.book-1{
+  background-color: #00447b;
+}
 .row-book {
   display: flex;
   align-items: center;
@@ -218,6 +221,9 @@ $primary-overlay:rgba(50,146,166,0.8);
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
   border-radius: 5px;
   text-align: center;
+}
+.botton-book-1{
+  background-color: #00447b !important;
 }
 .botton-book:first-child {
   background-color: #007b5e;

@@ -84,19 +84,20 @@
     </section>
          <!-- NEWSLETTER -->
     <section id="newsletter" class="bg-secondary text-white py-4">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-            <input type="text" class="form-control form-control-lg" placeholder="Въведи свое име">
-          </div>
-          <div class="col-md-4">
-            <input type="text" class="form-control form-control-lg" placeholder="Въведи имейл">
-          </div>
-          <div class="col-md-4">
-            <button class="btn btn-warning btn-lg btn-block"><i class="fa fa-envelope-open-o"></i> Получи промокод</button>
-          </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашето име">
+        </div>
+        <div class="col-md-4">
+          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашиот е-маил">
+        </div>
+        <div class="col-md-4">
+          <button class="btn btn-warning btn-lg btn-block"><i class="fa fa-envelope-open-o"></i> Добијте промокод</button>
         </div>
       </div>
+    </div>
+  </section>
 
   </main>
 

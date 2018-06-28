@@ -18,17 +18,6 @@
 
        <h1 class="display-4 mb-4">Стратегија за обложување во живо, додека го следите наптреварот</h1>
 
-        <!-- CONTEXTUAL CLASSES -->
-        <ul class="list-group mb-5">
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-            <li class="list-group-item list-group-item-info">Info List Item</li>
-        </ul>
-
         <p>За радост, останаа во минатото деновите кога играчите пропуштајќи поволни можности, само затоа што не успеале да стават облог пред почетокот на натпреварот. Сега е можно да се обложуваат во било кое време од почетокот на играта до последните минути пред последниот судиски свиреш, бидејќи повеќето обложувалници нудат живи облози за своите клиенти. Овој вид на обложување многу им се допаѓа на зависниците од адреналин и на оние кои сакаат да направат обложување не само профитабилено туку и возбудливо.</p>
 
         <p>Од другата страна на барикадата се по-озбилните играчи кои се заинтересирани помалку од забава и залагаат посериозно, затоа користат стратегии за облозување на живо. Има многу од нив на интернет, а тие можат да бидат повеќе или помалку успешни, во зависност од тоа колку добро се применуваат. Вистината е дека ниедна стратегија за обложување на живо нема да работи цело време во отсуство на соодветно управување со средствата и длабинско истражување.</p>
@@ -142,20 +131,20 @@
   </section>
     <!-- NEWSLETTER -->
     <section id="newsletter" class="bg-secondary text-white py-4">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-            <input type="text" class="form-control form-control-lg" placeholder="Въведи свое име">
-          </div>
-          <div class="col-md-4">
-            <input type="text" class="form-control form-control-lg" placeholder="Въведи имейл">
-          </div>
-          <div class="col-md-4">
-            <button class="btn btn-warning btn-lg btn-block"><i class="fa fa-envelope-open-o"></i> Получи промокод</button>
-          </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашето име">
+        </div>
+        <div class="col-md-4">
+          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашиот е-маил">
+        </div>
+        <div class="col-md-4">
+          <button class="btn btn-warning btn-lg btn-block"><i class="fa fa-envelope-open-o"></i> Добијте промокод</button>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
   </main>
   <?php require '../../include/footer.php';?>
 

@@ -150,7 +150,7 @@
           <div class="card text-center bg-primary text-white">
             <div class="card-body">
               <h3 class="text-primary text-light">3.000 денари</h3>
-              <p>Бонус за нови играчи од <span class="text-uppercase font-weight-bold">bet365</span></p>
+              <p>Бонус за нови играчи од <span class="text-uppercase font-weight-bold">10bet</span></p>
             </div>
           </div>
         </div>
@@ -158,7 +158,7 @@
           <div class="card text-center border-primary">
             <div class="card-body">
               <h3 class="text-primary">100 евро</h3>
-              <p class="text-dark">Бонус за нови играчи од <span class="text-uppercase font-weight-bold">bet365</span></p>
+              <p class="text-dark">Бонус за нови играчи од <span class="text-uppercase font-weight-bold">Marathon</span></p>
             </div>
           </div>
         </div>
@@ -166,7 +166,7 @@
           <div class="card text-center bg-primary text-white">
             <div class="card-body">
               <h3 class="text-primary text-light">100 евро</h3>
-              <p>Бонус за нови играчи од <span class="text-uppercase font-weight-bold">bet365</span></p>
+              <p>Бонус за нови играчи од <span class="text-uppercase font-weight-bold">unibet</span></p>
             </div>
           </div>
         </div>
