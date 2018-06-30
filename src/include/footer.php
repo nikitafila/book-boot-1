@@ -16,7 +16,7 @@
                   <a class="lead" href="/betting-strategy/">Стратегии</a>
               </li>
               <li class="nav-item">
-                  <a class="lead" href="#">Контакти</a>
+                  <a class="lead" href="/contact/">Контакти</a>
               </li>
           </ul>
         </div>

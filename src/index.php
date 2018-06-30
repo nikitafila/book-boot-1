@@ -95,21 +95,21 @@
     </div>
   </section>
   <!-- NEWSLETTER -->
-  <section id="newsletter" class="bg-secondary text-white py-4">
+  <form id="newsletter" class="bg-secondary text-white py-4">
     <div class="container">
       <div class="row">
         <div class="col-md-4">
-          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашето име">
+          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашето име" id="name" name="name">
         </div>
         <div class="col-md-4">
-          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашиот е-маил">
+          <input type="text" class="form-control form-control-lg" placeholder="Внесете го вашиот е-маил" id="email" name="email">
         </div>
         <div class="col-md-4">
-          <button class="btn btn-warning btn-lg btn-block"><i class="fa fa-envelope-open-o"></i> Добијте промокод</button>
+          <button class="btn btn-warning btn-lg btn-block" type="submit"><i class="fa fa-envelope-open-o"></i> Добијте промокод</button>
         </div>
       </div>
     </div>
-  </section>
+  </form>
   <section id="about" class="mt-5">
     <div class="container">
       <div class="row">
@@ -219,6 +219,7 @@
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
+   <script src="js/common.js"></script>
 </body>
 </html>
 

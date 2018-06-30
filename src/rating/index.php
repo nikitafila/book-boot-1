@@ -150,6 +150,41 @@
                   <tr>
                       <th class="align-middle">2</th>
                       <td class="align-middle">
+                        <img src="/img/icons/bookmakers/1xbet.png">
+                      </td>
+                      <td class="d-none d-lg-table-cell">
+                        <ul>
+                          <li>Највисоки коефициенти</li>
+                          <li>Брз сајт</li>
+                          <li>Многу добар продукт</li>
+                          <li>Пренос во живо</li>
+                        </ul>
+                      </td>
+                      <td class="d-none d-lg-table-cell">
+                        <ul>
+                          <li>Visa</li>
+                          <li>Mastercard</li>
+                          <li>Skrill</li>
+                          <li>Neteller</li>
+                          <li>Банкарски трансвер</li>
+                        </ul>
+                      </td>
+                      <td class="d-none d-lg-table-cell">
+                        <ul>
+                          <li>IOS</li>
+                          <li>Android</li>
+                        </ul>
+                      </td>
+                      <td class="d-none d-md-table-cell">
+                        Бонус 100 евро
+                      </td>
+                      <td class="align-middle">
+                        <a href="/rating/1xbet-macedonia/" class="btn btn-primary">Рецензија</a>
+                      </td>
+                  </tr>
+                  <tr>
+                      <th class="align-middle">3</th>
+                      <td class="align-middle">
                         <img src="/img/icons/bookmakers/10bet.png">
                       </td>
                       <td class="d-none d-lg-table-cell">
@@ -183,7 +218,7 @@
                       </td>
                   </tr>
                   <tr>
-                      <th class="align-middle">3</th>
+                      <th class="align-middle">4</th>
                       <td class="align-middle">
                         <img src="/img/icons/bookmakers/betway.png">
                       </td>
