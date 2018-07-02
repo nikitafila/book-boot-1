@@ -477,8 +477,8 @@
                   </div>
                 </div>
                 <div class="row-book-last">
-                  <span class="botton-book botton-book-1">Регистрациjа</span>
-                  <span class="botton-book">Линк за бонус</span>
+                  <span class="botton-book botton-book-1"><a href="https://track.10bet.com/C.ashx?btag=a_49226b_4619c_&affid=1679824&siteid=49226&adid=4619&c" target="_blank">Регистрациjа</a></span>
+                  <span class="botton-book"><a href="https://track.10bet.com/C.ashx?btag=a_49226b_4619c_&affid=1679824&siteid=49226&adid=4619&c" target="_blank">Линк за бонус</a></span>
                 </div>
               </section>
         </aside>

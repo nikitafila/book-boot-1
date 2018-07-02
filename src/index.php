@@ -39,7 +39,7 @@
                 <li>Кешаут</li>
                 <li>Онлајн спорт</li>
               </ul>
-              <a href="#" class="btn btn-primary">Земи бонус</a>
+              <a href="/rating/bet365-macedonia/" class="btn btn-primary">Земи бонус</a>
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@
                 <li>Слотови</li>
                 <li>Онлајн спорт</li>
               </ul>
-              <a href="#" class="btn btn-primary">Земи бонус</a>
+              <a href="https://track.10bet.com/C.ashx?btag=a_49226b_4619c_&affid=1679824&siteid=49226&adid=4619&c" target="_blank" class="btn btn-primary">Земи бонус</a>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@
                 <li>Бонус 100 евро</li>
                 <li>Мобилно обложување</li>
                 <li>Берза на облози</li>
-                <li>Верификација на акаунт: 24 часа</li>
+                <li>Слотови</li>
               </ul>
               <a href="#" class="btn btn-primary">Земи бонус</a>
             </div>
@@ -142,7 +142,7 @@
           <div class="card text-center border-primary">
             <div class="card-body">
               <h3 class="text-primary">6.000 денари</h3>
-              <p class="text-dark">Бонус за нови играчи од <span class="text-uppercase font-weight-bold">bet365</span></p>
+              <p class="text-dark">Бонус за нови играчи од <span class="text-uppercase font-weight-bold"><a href="/rating/bet365-macedonia/">bet365</a></span></p>
             </div>
           </div>
         </div>
@@ -150,7 +150,7 @@
           <div class="card text-center bg-primary text-white">
             <div class="card-body">
               <h3 class="text-primary text-light">3.000 денари</h3>
-              <p>Бонус за нови играчи од <span class="text-uppercase font-weight-bold">10bet</span></p>
+              <p>Бонус за нови играчи од <span class="text-uppercase font-weight-bold"><a href="/rating/10bet-macedonia/">10bet</a></span></p>
             </div>
           </div>
         </div>
